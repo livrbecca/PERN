@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/livrbecca/PERN/issues"
   },
-  "homepage": "https://github.com/livrbecca/PERN#readme"
+  "homepage": "https://github.com/livrbecca/PERN#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
