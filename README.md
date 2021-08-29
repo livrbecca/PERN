@@ -9,4 +9,5 @@
 
 # To start
 - run the backend server, posted [here](https://github.com/livrbecca/PERN-todo-backend)
+- ``cd`` into client: ``cd client``
 - run ``npm start`` on this project
